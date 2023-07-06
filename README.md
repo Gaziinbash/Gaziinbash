@@ -2,7 +2,7 @@
 
 I automate processes using GNU Bash.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/602879617870856223/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/602879617870856223/)
 
 ![Gaziin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaziinbash&show_icons=true&theme=radical)
 
