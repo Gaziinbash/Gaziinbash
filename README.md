@@ -4,7 +4,7 @@ I automate processes using GNU Bash.
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/602879617870856223/)
 
-![Stemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaziinbash&show_icons=true&theme=radical)
+![Stemy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecstemy&show_icons=true&theme=radical)
 
 ## Technologies of my daily life 
 <div style="display: inline-block">
@@ -13,4 +13,4 @@ I automate processes using GNU Bash.
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaziinbash&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecstemy&layout=compact)
